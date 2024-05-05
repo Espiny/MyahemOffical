@@ -1,76 +1,76 @@
-function qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
+-- Gui to Lua
+-- Version: 3.2
 
+-- Instances:
 
--- espiny n22ger
-
-local KeySystemNoDiscord = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,10395,11970,10605,10605,11550,7455,12285,11025}))
-local Main = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local Left = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local UIListLayout = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,7665,7980,11025,12075,12180,7980,10185,12705,11655,12285,12180}))
-local API = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local UICorner = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,7665,7035,11655,11970,11550,10605,11970}))
-local Shadow = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local DropShadow = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7665,11445,10185,10815,10605,7980,10185,10290,10605,11340}))
-local EXPLOITS = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local Separator = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local Title = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Container = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local SolaraBETA = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Status = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local UIListLayout_2 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,7665,7980,11025,12075,12180,7980,10185,12705,11655,12285,12180}))
-local UIPadding = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,7665,8400,10185,10500,10500,11025,11550,10815}))
-local Krampus = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Status_2 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Lunar = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Status_3 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Fluxus = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Status_4 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local APIS = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local Title_2 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Container_2 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local UIListLayout_3 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,7665,7980,11025,12075,12180,7980,10185,12705,11655,12285,12180}))
-local UIPadding_2 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,7665,8400,10185,10500,10500,11025,11550,10815}))
-local WRD = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Status_5 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Comet = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Status_6 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local KEY = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local UICorner_2 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,7665,7035,11655,11970,11550,10605,11970}))
-local Shadow_2 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local DropShadow_2 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7665,11445,10185,10815,10605,7980,10185,10290,10605,11340}))
-local ButtonHolder = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local UIListLayout_4 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,7665,7980,11025,12075,12180,7980,10185,12705,11655,12285,12180}))
-local CopyKey = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local UICorner_3 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,7665,7035,11655,11970,11550,10605,11970}))
-local Title_3 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local UIPadding_3 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,7665,8400,10185,10500,10500,11025,11550,10815}))
-local KeyHolder = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local Separator_2 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local HideKey = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7665,11445,10185,10815,10605,6930,12285,12180,12180,11655,11550}))
-local KeyBox = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,6930,11655,12600}))
-local TextButton = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,6930,12285,12180,12180,11655,11550}))
-local PlayerIcon = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7665,11445,10185,10815,10605,7980,10185,10290,10605,11340}))
-local SubTitle = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Title_4 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local Shadow_3 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
-local DropShadow_3 = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7665,11445,10185,10815,10605,7980,10185,10290,10605,11340}))
-local CloseKey = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7665,11445,10185,10815,10605,6930,12285,12180,12180,11655,11550}))
-local Credits = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,10605,12600,12180,7980,10185,10290,10605,11340}))
-local DragFrame = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11970,10185,11445,10605}))
+local KeySystemNoDiscord = Instance.new("ScreenGui")
+local Main = Instance.new("Frame")
+local Left = Instance.new("Frame")
+local UIListLayout = Instance.new("UIListLayout")
+local API = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local Shadow = Instance.new("Frame")
+local DropShadow = Instance.new("ImageLabel")
+local EXPLOITS = Instance.new("Frame")
+local Separator = Instance.new("Frame")
+local Title = Instance.new("TextLabel")
+local Container = Instance.new("Frame")
+local SolaraBETA = Instance.new("TextLabel")
+local Status = Instance.new("TextLabel")
+local UIListLayout_2 = Instance.new("UIListLayout")
+local UIPadding = Instance.new("UIPadding")
+local Krampus = Instance.new("TextLabel")
+local Status_2 = Instance.new("TextLabel")
+local Lunar = Instance.new("TextLabel")
+local Status_3 = Instance.new("TextLabel")
+local Fluxus = Instance.new("TextLabel")
+local Status_4 = Instance.new("TextLabel")
+local APIS = Instance.new("Frame")
+local Title_2 = Instance.new("TextLabel")
+local Container_2 = Instance.new("Frame")
+local UIListLayout_3 = Instance.new("UIListLayout")
+local UIPadding_2 = Instance.new("UIPadding")
+local WRD = Instance.new("TextLabel")
+local Status_5 = Instance.new("TextLabel")
+local Comet = Instance.new("TextLabel")
+local Status_6 = Instance.new("TextLabel")
+local KEY = Instance.new("Frame")
+local UICorner_2 = Instance.new("UICorner")
+local Shadow_2 = Instance.new("Frame")
+local DropShadow_2 = Instance.new("ImageLabel")
+local ButtonHolder = Instance.new("Frame")
+local UIListLayout_4 = Instance.new("UIListLayout")
+local CopyKey = Instance.new("Frame")
+local UICorner_3 = Instance.new("UICorner")
+local Title_3 = Instance.new("TextLabel")
+local UIPadding_3 = Instance.new("UIPadding")
+local KeyHolder = Instance.new("Frame")
+local Separator_2 = Instance.new("Frame")
+local HideKey = Instance.new("ImageButton")
+local KeyBox = Instance.new("TextBox")
+local TextButton = Instance.new("TextButton")
+local PlayerIcon = Instance.new("ImageLabel")
+local SubTitle = Instance.new("TextLabel")
+local Title_4 = Instance.new("TextLabel")
+local Shadow_3 = Instance.new("Frame")
+local DropShadow_3 = Instance.new("ImageLabel")
+local CloseKey = Instance.new("ImageButton")
+local Credits = Instance.new("TextLabel")
+local DragFrame = Instance.new("Frame")
 
 --Properties:
 
-KeySystemNoDiscord.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7875,10605,12705,3360,8715,12705,12075,12180,10605,11445,3360,4935,3360,8190,11655,3360,7140,11025,12075,10395,11655,11970,10500})
+KeySystemNoDiscord.Name = "Key System / No Discord"
 KeySystemNoDiscord.Parent = game.CoreGui
 KeySystemNoDiscord.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
-Main.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8085,10185,11025,11550})
+Main.Name = "Main"
 Main.Parent = KeySystemNoDiscord
 Main.BackgroundColor3 = Color3.fromRGB(30, 32, 35)
 Main.Position = UDim2.new(0.606282115, 0, 0.24238582, 0)
 Main.Size = UDim2.new(0, 445, 0, 350)
 
-Left.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7980,10605,10710,12180})
+Left.Name = "Left"
 Left.Parent = Main
 Left.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Left.BackgroundTransparency = 1.000
@@ -83,7 +83,7 @@ UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
 UIListLayout.VerticalAlignment = Enum.VerticalAlignment.Center
 UIListLayout.Padding = UDim.new(0.0149999997, 0)
 
-API.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({6825,8400,7665})
+API.Name = "API"
 API.Parent = Left
 API.BackgroundColor3 = Color3.fromRGB(46, 49, 56)
 API.Position = UDim2.new(0.0224719103, 0, 0.0399006121, 0)
@@ -92,14 +92,14 @@ API.Size = UDim2.new(0, 425, 0, 152)
 UICorner.CornerRadius = UDim.new(0.0399999991, 0)
 UICorner.Parent = API
 
-Shadow.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,10920,10185,10500,11655,12495})
+Shadow.Name = "Shadow"
 Shadow.Parent = API
 Shadow.BackgroundTransparency = 1.000
 Shadow.BorderSizePixel = 0
 Shadow.Size = UDim2.new(1, 0, 1, 0)
 Shadow.ZIndex = 0
 
-DropShadow.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7140,11970,11655,11760,8715,10920,10185,10500,11655,12495})
+DropShadow.Name = "DropShadow"
 DropShadow.Parent = Shadow
 DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
 DropShadow.BackgroundTransparency = 1.000
@@ -107,26 +107,26 @@ DropShadow.BorderSizePixel = 0
 DropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
 DropShadow.Size = UDim2.new(1, 47, 1, 47)
 DropShadow.ZIndex = 0
-DropShadow.Image = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5670,5040,5145,5460,5250,5670,5145,5985,5985,5355})
+DropShadow.Image = "rbxassetid://6014261993"
 DropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
 DropShadow.ImageTransparency = 0.500
 DropShadow.ScaleType = Enum.ScaleType.Slice
 DropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
 
-EXPLOITS.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7245,9240,8400,7980,8295,7665,8820,8715})
+EXPLOITS.Name = "EXPLOITS"
 EXPLOITS.Parent = API
 EXPLOITS.BackgroundColor3 = Color3.fromRGB(188, 200, 229)
 EXPLOITS.BackgroundTransparency = 1.000
 EXPLOITS.Size = UDim2.new(0, 212, 0, 152)
 
-Separator.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,10605,11760,10185,11970,10185,12180,11655,11970})
+Separator.Name = "Separator"
 Separator.Parent = EXPLOITS
 Separator.BackgroundColor3 = Color3.fromRGB(44, 46, 51)
 Separator.BorderSizePixel = 0
 Separator.Position = UDim2.new(0.998659968, 0, 0.0855263174, 0)
 Separator.Size = UDim2.new(0, 1, 0, 125)
 
-Title.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,11025,12180,11340,10605})
+Title.Name = "Title"
 Title.Parent = EXPLOITS
 Title.BackgroundColor3 = Color3.fromRGB(225, 225, 225)
 Title.BackgroundTransparency = 1.000
@@ -135,19 +135,19 @@ Title.BorderSizePixel = 0
 Title.Position = UDim2.new(0.00773687661, 0, 0.164473683, 0)
 Title.Size = UDim2.new(0, 210, 0, 15)
 Title.Font = Enum.Font.Arial
-Title.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7245,12600,11760,11340,11655,11025,12180,3360,8715,12180,10185,12180,12285,12075})
+Title.Text = "Exploit Status"
 Title.TextColor3 = Color3.fromRGB(200, 200, 200)
 Title.TextSize = 19.000
 Title.TextWrapped = true
 
-Container.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7035,11655,11550,12180,10185,11025,11550,10605,11970})
+Container.Name = "Container"
 Container.Parent = EXPLOITS
 Container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Container.BackgroundTransparency = 1.000
 Container.Position = UDim2.new(0.0424528308, 0, 0.263157904, 0)
 Container.Size = UDim2.new(0, 195, 0, 100)
 
-SolaraBETA.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,11655,11340,10185,11970,10185,3360,6930,7245,8820,6825})
+SolaraBETA.Name = "Solara BETA"
 SolaraBETA.Parent = Container
 SolaraBETA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 SolaraBETA.BackgroundTransparency = 1.000
@@ -156,13 +156,13 @@ SolaraBETA.BorderSizePixel = 0
 SolaraBETA.Position = UDim2.new(0.175999999, 0, 0, 0)
 SolaraBETA.Size = UDim2.new(0, 85, 0, 15)
 SolaraBETA.Font = Enum.Font.Arial
-SolaraBETA.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,11655,11340,10185,11970,10185,3360,6930,7245,8820,6825,6090})
+SolaraBETA.Text = "Solara BETA:"
 SolaraBETA.TextColor3 = Color3.fromRGB(235, 235, 235)
 SolaraBETA.TextSize = 15.000
 SolaraBETA.TextWrapped = true
 SolaraBETA.TextXAlignment = Enum.TextXAlignment.Left
 
-Status.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,12180,10185,12180,12285,12075})
+Status.Name = "Status"
 Status.Parent = SolaraBETA
 Status.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Status.BackgroundTransparency = 1.000
@@ -172,7 +172,7 @@ Status.ClipsDescendants = true
 Status.Position = UDim2.new(0.998407364, 0, -0.0250000004, 0)
 Status.Size = UDim2.new(0, 58, 0, 15)
 Status.Font = Enum.Font.Arial
-Status.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({9135,11655,11970,11235,11025,11550,10815})
+Status.Text = "Working"
 Status.TextColor3 = Color3.fromRGB(57, 229, 85)
 Status.TextSize = 15.000
 Status.TextWrapped = true
@@ -186,7 +186,7 @@ UIPadding.Parent = Container
 UIPadding.PaddingRight = UDim.new(0, 70)
 UIPadding.PaddingTop = UDim.new(0, 10)
 
-Krampus.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7875,11970,10185,11445,11760,12285,12075})
+Krampus.Name = "Krampus"
 Krampus.Parent = Container
 Krampus.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Krampus.BackgroundTransparency = 1.000
@@ -195,13 +195,13 @@ Krampus.BorderSizePixel = 0
 Krampus.Position = UDim2.new(0.256000012, 0, 0.166666672, 0)
 Krampus.Size = UDim2.new(0, 70, 0, 15)
 Krampus.Font = Enum.Font.Arial
-Krampus.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7875,11970,10185,11445,11760,12285,12075,6090})
+Krampus.Text = "Krampus:"
 Krampus.TextColor3 = Color3.fromRGB(235, 235, 235)
 Krampus.TextSize = 15.000
 Krampus.TextWrapped = true
 Krampus.TextXAlignment = Enum.TextXAlignment.Left
 
-Status_2.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,12180,10185,12180,12285,12075})
+Status_2.Name = "Status"
 Status_2.Parent = Krampus
 Status_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Status_2.BackgroundTransparency = 1.000
@@ -211,13 +211,13 @@ Status_2.ClipsDescendants = true
 Status_2.Position = UDim2.new(0.898407876, 0, -0.0250000004, 0)
 Status_2.Size = UDim2.new(0, 85, 0, 15)
 Status_2.Font = Enum.Font.Arial
-Status_2.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({9135,11655,11970,11235,11025,11550,10815})
+Status_2.Text = "Working"
 Status_2.TextColor3 = Color3.fromRGB(57, 229, 85)
 Status_2.TextSize = 15.000
 Status_2.TextWrapped = true
 Status_2.TextXAlignment = Enum.TextXAlignment.Left
 
-Lunar.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7980,12285,11550,10185,11970})
+Lunar.Name = "Lunar"
 Lunar.Parent = Container
 Lunar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Lunar.BackgroundTransparency = 1.000
@@ -226,13 +226,13 @@ Lunar.BorderSizePixel = 0
 Lunar.Position = UDim2.new(0.102564104, 0, 0.400000006, 0)
 Lunar.Size = UDim2.new(0, 81, 0, 15)
 Lunar.Font = Enum.Font.Arial
-Lunar.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7980,12285,11550,10185,11970,6090})
+Lunar.Text = "Lunar:"
 Lunar.TextColor3 = Color3.fromRGB(235, 235, 235)
 Lunar.TextSize = 15.000
 Lunar.TextWrapped = true
 Lunar.TextXAlignment = Enum.TextXAlignment.Left
 
-Status_3.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,12180,10185,12180,12285,12075})
+Status_3.Name = "Status"
 Status_3.Parent = Lunar
 Status_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Status_3.BackgroundTransparency = 1.000
@@ -242,13 +242,13 @@ Status_3.ClipsDescendants = true
 Status_3.Position = UDim2.new(0.591000378, 0, -0.0250000004, 0)
 Status_3.Size = UDim2.new(0, 85, 0, 15)
 Status_3.Font = Enum.Font.Arial
-Status_3.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({9135,11655,11970,11235,11025,11550,10815})
+Status_3.Text = "Working"
 Status_3.TextColor3 = Color3.fromRGB(57, 229, 85)
 Status_3.TextSize = 15.000
 Status_3.TextWrapped = true
 Status_3.TextXAlignment = Enum.TextXAlignment.Left
 
-Fluxus.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7350,11340,12285,12600,12285,12075})
+Fluxus.Name = "Fluxus"
 Fluxus.Parent = Container
 Fluxus.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Fluxus.BackgroundTransparency = 1.000
@@ -257,13 +257,13 @@ Fluxus.BorderSizePixel = 0
 Fluxus.Position = UDim2.new(0, 0, 0.499999821, 0)
 Fluxus.Size = UDim2.new(0, 87, 0, 15)
 Fluxus.Font = Enum.Font.Arial
-Fluxus.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7665,8190,7035,8295,7455,8190,7665,8820,8295,6090})
+Fluxus.Text = "INCOGNITO:"
 Fluxus.TextColor3 = Color3.fromRGB(235, 235, 235)
 Fluxus.TextSize = 15.000
 Fluxus.TextWrapped = true
 Fluxus.TextXAlignment = Enum.TextXAlignment.Left
 
-Status_4.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,12180,10185,12180,12285,12075})
+Status_4.Name = "Status"
 Status_4.Parent = Fluxus
 Status_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Status_4.BackgroundTransparency = 1.000
@@ -273,20 +273,20 @@ Status_4.ClipsDescendants = true
 Status_4.Position = UDim2.new(0.998407662, 0, -0.0250000004, 0)
 Status_4.Size = UDim2.new(0, 85, 0, 15)
 Status_4.Font = Enum.Font.Arial
-Status_4.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,11760,10500,10185,12180,10605,10500})
+Status_4.Text = "Updated"
 Status_4.TextColor3 = Color3.fromRGB(57, 229, 85)
 Status_4.TextSize = 15.000
 Status_4.TextWrapped = true
 Status_4.TextXAlignment = Enum.TextXAlignment.Left
 
-APIS.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({6825,8400,7665,8715})
+APIS.Name = "APIS"
 APIS.Parent = API
 APIS.BackgroundColor3 = Color3.fromRGB(188, 200, 229)
 APIS.BackgroundTransparency = 1.000
 APIS.Position = UDim2.new(0.501176476, 0, 0, 0)
 APIS.Size = UDim2.new(0, 212, 0, 152)
 
-Title_2.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,11025,12180,11340,10605})
+Title_2.Name = "Title"
 Title_2.Parent = APIS
 Title_2.BackgroundColor3 = Color3.fromRGB(225, 225, 225)
 Title_2.BackgroundTransparency = 1.000
@@ -295,12 +295,12 @@ Title_2.BorderSizePixel = 0
 Title_2.Position = UDim2.new(0.00773649383, 0, 0.164473683, 0)
 Title_2.Size = UDim2.new(0, 210, 0, 15)
 Title_2.Font = Enum.Font.Arial
-Title_2.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7455,10185,11445,10605,12075})
+Title_2.Text = "Games"
 Title_2.TextColor3 = Color3.fromRGB(200, 200, 200)
 Title_2.TextSize = 19.000
 Title_2.TextWrapped = true
 
-Container_2.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7035,11655,11550,12180,10185,11025,11550,10605,11970})
+Container_2.Name = "Container"
 Container_2.Parent = APIS
 Container_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Container_2.BackgroundTransparency = 1.000
@@ -315,7 +315,7 @@ UIPadding_2.Parent = Container_2
 UIPadding_2.PaddingRight = UDim.new(0, 70)
 UIPadding_2.PaddingTop = UDim.new(0, 10)
 
-WRD.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({9135,8610,7140})
+WRD.Name = "WRD"
 WRD.Parent = Container_2
 WRD.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 WRD.BackgroundTransparency = 1.000
@@ -324,13 +324,13 @@ WRD.BorderSizePixel = 0
 WRD.Position = UDim2.new(0.200000003, 0, 0, 0)
 WRD.Size = UDim2.new(0, 64, 0, 15)
 WRD.Font = Enum.Font.Arial
-WRD.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({6825,11970,12075,10605,11550,10185,11340})
+WRD.Text = "Arsenal"
 WRD.TextColor3 = Color3.fromRGB(235, 235, 235)
 WRD.TextSize = 15.000
 WRD.TextWrapped = true
 WRD.TextXAlignment = Enum.TextXAlignment.Left
 
-Status_5.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,12180,10185,12180,12285,12075})
+Status_5.Name = "Status"
 Status_5.Parent = WRD
 Status_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Status_5.BackgroundTransparency = 1.000
@@ -340,13 +340,13 @@ Status_5.ClipsDescendants = true
 Status_5.Position = UDim2.new(0.791090786, 0, -0.0250000004, 0)
 Status_5.Size = UDim2.new(0, 85, 0, 15)
 Status_5.Font = Enum.Font.Arial
-Status_5.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,11760,10500,10185,12180,10605,10500})
+Status_5.Text = "Updated"
 Status_5.TextColor3 = Color3.fromRGB(57, 229, 85)
 Status_5.TextSize = 15.000
 Status_5.TextWrapped = true
 Status_5.TextXAlignment = Enum.TextXAlignment.Left
 
-Comet.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7035,11655,11445,10605,12180})
+Comet.Name = "Comet"
 Comet.Parent = Container_2
 Comet.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Comet.BackgroundTransparency = 1.000
@@ -355,13 +355,13 @@ Comet.BorderSizePixel = 0
 Comet.Position = UDim2.new(-0.0588789061, 0, 0.166666672, 0)
 Comet.Size = UDim2.new(0, 94, 0, 15)
 Comet.Font = Enum.Font.Arial
-Comet.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({6825,3360,10500,12285,12075,12180,12705,3360,12180,11970,11025,11760})
+Comet.Text = "A dusty trip"
 Comet.TextColor3 = Color3.fromRGB(235, 235, 235)
 Comet.TextSize = 15.000
 Comet.TextWrapped = true
 Comet.TextXAlignment = Enum.TextXAlignment.Left
 
-Status_6.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,12180,10185,12180,12285,12075})
+Status_6.Name = "Status"
 Status_6.Parent = Comet
 Status_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Status_6.BackgroundTransparency = 1.000
@@ -371,13 +371,13 @@ Status_6.ClipsDescendants = true
 Status_6.Position = UDim2.new(0.785641909, 0, -0.0250000004, 0)
 Status_6.Size = UDim2.new(0, 85, 0, 15)
 Status_6.Font = Enum.Font.Arial
-Status_6.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,11655,11655,11550})
+Status_6.Text = "Soon"
 Status_6.TextColor3 = Color3.fromRGB(229, 229, 64)
 Status_6.TextSize = 15.000
 Status_6.TextWrapped = true
 Status_6.TextXAlignment = Enum.TextXAlignment.Left
 
-KEY.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7875,7245,9345})
+KEY.Name = "KEY"
 KEY.Parent = Left
 KEY.BackgroundColor3 = Color3.fromRGB(46, 49, 56)
 KEY.Position = UDim2.new(-0.615730345, 0, 0.500094116, 0)
@@ -386,14 +386,14 @@ KEY.Size = UDim2.new(0, 425, 0, 152)
 UICorner_2.CornerRadius = UDim.new(0.0250000004, 0)
 UICorner_2.Parent = KEY
 
-Shadow_2.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,10920,10185,10500,11655,12495})
+Shadow_2.Name = "Shadow"
 Shadow_2.Parent = KEY
 Shadow_2.BackgroundTransparency = 1.000
 Shadow_2.BorderSizePixel = 0
 Shadow_2.Size = UDim2.new(1, 0, 1, 0)
 Shadow_2.ZIndex = 0
 
-DropShadow_2.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7140,11970,11655,11760,8715,10920,10185,10500,11655,12495})
+DropShadow_2.Name = "DropShadow"
 DropShadow_2.Parent = Shadow_2
 DropShadow_2.AnchorPoint = Vector2.new(0.5, 0.5)
 DropShadow_2.BackgroundTransparency = 1.000
@@ -401,13 +401,13 @@ DropShadow_2.BorderSizePixel = 0
 DropShadow_2.Position = UDim2.new(0.5, 0, 0.5, 0)
 DropShadow_2.Size = UDim2.new(1, 47, 1, 47)
 DropShadow_2.ZIndex = 0
-DropShadow_2.Image = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5670,5040,5145,5460,5250,5670,5145,5985,5985,5355})
+DropShadow_2.Image = "rbxassetid://6014261993"
 DropShadow_2.ImageColor3 = Color3.fromRGB(0, 0, 0)
 DropShadow_2.ImageTransparency = 0.500
 DropShadow_2.ScaleType = Enum.ScaleType.Slice
 DropShadow_2.SliceCenter = Rect.new(49, 49, 450, 450)
 
-ButtonHolder.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({6930,12285,12180,12180,11655,11550,7560,11655,11340,10500,10605,11970})
+ButtonHolder.Name = "ButtonHolder"
 ButtonHolder.Parent = KEY
 ButtonHolder.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ButtonHolder.BackgroundTransparency = 1.000
@@ -420,7 +420,7 @@ UIListLayout_4.SortOrder = Enum.SortOrder.LayoutOrder
 UIListLayout_4.VerticalAlignment = Enum.VerticalAlignment.Center
 UIListLayout_4.Padding = UDim.new(0, 2)
 
-CopyKey.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7035,11655,11760,12705,7875,10605,12705})
+CopyKey.Name = "CopyKey"
 CopyKey.Parent = ButtonHolder
 CopyKey.BackgroundColor3 = Color3.fromRGB(91, 136, 255)
 CopyKey.Position = UDim2.new(-0.0199999996, 0, 0.125, 0)
@@ -429,43 +429,43 @@ CopyKey.Size = UDim2.new(0, 148, 0, 30)
 UICorner_3.CornerRadius = UDim.new(0.0299999993, 0)
 UICorner_3.Parent = CopyKey
 
-Title_3.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,11025,12180,11340,10605})
+Title_3.Name = "Title"
 Title_3.Parent = CopyKey
 Title_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Title_3.BackgroundTransparency = 1.000
 Title_3.Position = UDim2.new(0.0743243247, 0, 0, 0)
 Title_3.Size = UDim2.new(0, 125, 0, 30)
 Title_3.Font = Enum.Font.ArialBold
-Title_3.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8085,10185,10500,10605,3360,10290,12705,3360,10605,12075,11760,11025,11550,12705,3360,6300,5355})
+Title_3.Text = "Made by espiny <3"
 Title_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title_3.TextSize = 14.000
 
 UIPadding_3.Parent = ButtonHolder
 UIPadding_3.PaddingLeft = UDim.new(0, 10)
 
-KeyHolder.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7875,10605,12705,7560,11655,11340,10500,10605,11970})
+KeyHolder.Name = "KeyHolder"
 KeyHolder.Parent = KEY
 KeyHolder.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 KeyHolder.BackgroundTransparency = 1.000
 KeyHolder.Position = UDim2.new(0.0399999991, 0, 0.328947365, 0)
 KeyHolder.Size = UDim2.new(0, 380, 0, 50)
 
-Separator_2.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,10605,11760,10185,11970,10185,12180,11655,11970})
+Separator_2.Name = "Separator"
 Separator_2.Parent = KeyHolder
 Separator_2.BackgroundColor3 = Color3.fromRGB(100, 100, 100)
 Separator_2.Position = UDim2.new(0.00263157906, 0, 0.860000014, 0)
 Separator_2.Size = UDim2.new(0, 379, 0, 1)
 
-HideKey.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7560,11025,10500,10605,7875,10605,12705})
+HideKey.Name = "HideKey"
 HideKey.Parent = KeyHolder
 HideKey.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 HideKey.BackgroundTransparency = 1.000
 HideKey.Position = UDim2.new(0.945850909, 0, 0.460000008, 0)
 HideKey.Size = UDim2.new(0, 17, 0, 17)
-HideKey.Image = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({10920,12180,12180,11760,6090,4935,4935,12495,12495,12495,4830,11970,11655,10290,11340,11655,12600,4830,10395,11655,11445,4935,10185,12075,12075,10605,12180,4935,6615,11025,10500,6405,5670,5040,5355,5145,5775,5670,5355,5460,5250,5670})
+HideKey.Image = "http://www.roblox.com/asset/?id=6031763426"
 HideKey.ImageColor3 = Color3.fromRGB(125, 125, 125)
 
-KeyBox.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7875,10605,12705,6930,11655,12600})
+KeyBox.Name = "KeyBox"
 KeyBox.Parent = KeyHolder
 KeyBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 KeyBox.BackgroundTransparency = 1.000
@@ -474,8 +474,8 @@ KeyBox.Position = UDim2.new(0.00263157906, 0, 0.360000014, 0)
 KeyBox.Size = UDim2.new(0, 330, 0, 25)
 KeyBox.Font = Enum.Font.SourceSans
 KeyBox.PlaceholderColor3 = Color3.fromRGB(125, 125, 125)
-KeyBox.PlaceholderText = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7875,10605,12705,3360,7560,10605,11970,10605,4830,4830,4830})
-KeyBox.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({})
+KeyBox.PlaceholderText = "Key Here..."
+KeyBox.Text = ""
 KeyBox.TextColor3 = Color3.fromRGB(185, 185, 185)
 KeyBox.TextSize = 16.000
 KeyBox.TextXAlignment = Enum.TextXAlignment.Left
@@ -487,19 +487,19 @@ TextButton.BorderSizePixel = 0
 TextButton.Position = UDim2.new(0.405263156, 0, 1.12, 0)
 TextButton.Size = UDim2.new(0, 112, 0, 30)
 TextButton.Font = Enum.Font.ArialBold
-TextButton.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7035,10920,10605,10395,11235,3360,7875,10605,12705})
+TextButton.Text = "Check Key"
 TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.TextSize = 14.000
 
-PlayerIcon.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8400,11340,10185,12705,10605,11970,7665,10395,11655,11550})
+PlayerIcon.Name = "PlayerIcon"
 PlayerIcon.Parent = KEY
 PlayerIcon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 PlayerIcon.BackgroundTransparency = 1.000
 PlayerIcon.Position = UDim2.new(0.0399999991, 0, 0.0592105202, 0)
 PlayerIcon.Size = UDim2.new(0, 50, 0, 50)
-PlayerIcon.Image = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({11970,10290,12600,10185,12075,12075,10605,12180,6090,4935,4935,12180,10605,12600,12180,12285,11970,10605,12075,4935,12285,11025,4935,7455,12285,11025,7665,11445,10185,10815,10605,8400,11340,10185,10395,10605,10920,11655,11340,10500,10605,11970,4830,11760,11550,10815})
+PlayerIcon.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
 
-SubTitle.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,12285,10290,8820,11025,12180,11340,10605})
+SubTitle.Name = "SubTitle"
 SubTitle.Parent = KEY
 SubTitle.BackgroundColor3 = Color3.fromRGB(225, 225, 225)
 SubTitle.BackgroundTransparency = 1.000
@@ -508,13 +508,13 @@ SubTitle.BorderSizePixel = 0
 SubTitle.Position = UDim2.new(0.186560482, 0, 0.236842096, 0)
 SubTitle.Size = UDim2.new(0, 338, 0, 14)
 SubTitle.Font = Enum.Font.Arial
-SubTitle.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7770,11655,11025,11550,3360,12180,10920,10605,3360,12075,10605,11970,12390,10605,11970,3360,10500,12075,10395,4830,10815,10815,4935,8085,10185,12705,10920,10605,11445,9240,9240,3360,12180,11655,3360,10815,10605,12180,3360,11235,10605,12705,3465})
+SubTitle.Text = "Join the server dsc.gg/MayhemXX to get key!"
 SubTitle.TextColor3 = Color3.fromRGB(200, 200, 200)
 SubTitle.TextSize = 13.000
 SubTitle.TextWrapped = true
 SubTitle.TextXAlignment = Enum.TextXAlignment.Left
 
-Title_4.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8820,11025,12180,11340,10605})
+Title_4.Name = "Title"
 Title_4.Parent = KEY
 Title_4.BackgroundColor3 = Color3.fromRGB(225, 225, 225)
 Title_4.BackgroundTransparency = 1.000
@@ -523,20 +523,20 @@ Title_4.BorderSizePixel = 0
 Title_4.Position = UDim2.new(0.186560482, 0, 0.125, 0)
 Title_4.Size = UDim2.new(0, 338, 0, 15)
 Title_4.Font = Enum.Font.Arial
-Title_4.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7560,10605,11340,11340,11655,4620,3360,12285,12075,10605,11970,3465})
+Title_4.Text = "Hello, user!"
 Title_4.TextColor3 = Color3.fromRGB(225, 225, 225)
 Title_4.TextSize = 18.000
 Title_4.TextWrapped = true
 Title_4.TextXAlignment = Enum.TextXAlignment.Left
 
-Shadow_3.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8715,10920,10185,10500,11655,12495})
+Shadow_3.Name = "Shadow"
 Shadow_3.Parent = Main
 Shadow_3.BackgroundTransparency = 1.000
 Shadow_3.BorderSizePixel = 0
 Shadow_3.Size = UDim2.new(0.997757852, 0, 1, 0)
 Shadow_3.ZIndex = 0
 
-DropShadow_3.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7140,11970,11655,11760,8715,10920,10185,10500,11655,12495})
+DropShadow_3.Name = "DropShadow"
 DropShadow_3.Parent = Shadow_3
 DropShadow_3.AnchorPoint = Vector2.new(0.5, 0.5)
 DropShadow_3.BackgroundTransparency = 1.000
@@ -544,34 +544,34 @@ DropShadow_3.BorderSizePixel = 0
 DropShadow_3.Position = UDim2.new(0.5, 0, 0.5, 0)
 DropShadow_3.Size = UDim2.new(1, 47, 1, 47)
 DropShadow_3.ZIndex = 0
-DropShadow_3.Image = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5670,5040,5145,5565,5880,5985,5775,5880,5460,5355})
+DropShadow_3.Image = "rbxassetid://6015897843"
 DropShadow_3.ImageColor3 = Color3.fromRGB(0, 0, 0)
 DropShadow_3.ImageTransparency = 0.500
 DropShadow_3.ScaleType = Enum.ScaleType.Slice
 DropShadow_3.SliceCenter = Rect.new(49, 49, 450, 450)
 
-CloseKey.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7035,11340,11655,12075,10605,7875,10605,12705})
+CloseKey.Name = "CloseKey"
 CloseKey.Parent = Main
 CloseKey.BackgroundTransparency = 1.000
 CloseKey.Position = UDim2.new(0.930665433, 0, 0.0114285713, 0)
 CloseKey.Size = UDim2.new(0, 20, 0, 20)
 CloseKey.ZIndex = 2
-CloseKey.Image = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({11970,10290,12600,10185,12075,12075,10605,12180,11025,10500,6090,4935,4935,5355,5985,5250,5670,5355,5040,5565,5985,5040,5460})
+CloseKey.Image = "rbxassetid://3926305904"
 CloseKey.ImageRectOffset = Vector2.new(284, 4)
 CloseKey.ImageRectSize = Vector2.new(24, 24)
 
-Credits.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7035,11970,10605,10500,11025,12180,12075})
+Credits.Name = "Credits"
 Credits.Parent = Main
 Credits.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Credits.BackgroundTransparency = 1.000
 Credits.Position = UDim2.new(-0.035399843, 0, 0.021954868, 0)
 Credits.Size = UDim2.new(0, 194, 0, 18)
 Credits.Font = Enum.Font.Gotham
-Credits.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8085,10185,12705,10920,10605,11445,9240,3360,7875,10605,12705,8715,12705,12075,12180,10605,11445,3360})
+Credits.Text = "MayhemX KeySystem "
 Credits.TextColor3 = Color3.fromRGB(131, 131, 131)
 Credits.TextSize = 12.000
 
-DragFrame.Name = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7140,11970,10185,10815,7350,11970,10185,11445,10605})
+DragFrame.Name = "DragFrame"
 DragFrame.Parent = Main
 DragFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 DragFrame.BackgroundTransparency = 1.000
@@ -581,30 +581,30 @@ DragFrame.Size = UDim2.new(0, 403, 0, 32)
 
 -- Scripts:
 
-local function GRMKSLK_fake_script() -- KeyHolder.LocalScript 
-	local script = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180}), KeyHolder)
+local function CZXF_fake_script() -- KeyHolder.LocalScript 
+	local script = Instance.new('LocalScript', KeyHolder)
 
 	script.Parent.TextButton.MouseButton1Click:Connect(function()
-		if script.Parent.KeyBox.Text == qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({9135,5355,3885,7875,10500,3675,8610,11445,5775,13230,8295,5880,3990,11760,9135,4410,11865,10710,6930,9450,3780,12075,9030,11550,11655,5250,3780,9345,9870,7350,4515,8400,3675,11865,7980,10185,7770,5565,12705,8820,9240,12600,3465,10290,6720,12285,3990,12390,3780,3465})then
+		if script.Parent.KeyBox.Text == "W3%Kd#Rm7~O8&pW*qfBZ$sVno2$Y^F+P#qLaJ5yTXx!b@u&v$!"then
 			pcall(function()
-				script.Parent.KeyBox.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7035,11655,11970,11970,10605,10395,12180,3360,7875,10605,12705,3360,7980,11655,10185,10500,11025,11550,10815,4830,4830,4830})
+				script.Parent.KeyBox.Text = "Correct Key Loading..."
 				wait(2)
-				loadstring(game:HttpGet(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,7245,12075,11760,11025,11550,12705,4935,8085,10185,12705,10920,10605,11445,9240,4935,11445,10185,11025,11550,4935,10605,12075,11760,11025,11550,12705,12075,10920,11025,11025,11025,11025,10185,11970,12075,11550,10605,10185,11340})))()
+				loadstring(game:HttpGet("https://raw.githubusercontent.com/Espiny/MayhemX/main/espinyshiiiiarsneal"))()
 				wait(3)
 				script.Parent.Parent.Parent.Parent.Parent:Destroy()
 			end)
 		else
-			script.Parent.KeyBox.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7665,11550,10395,11655,11970,11970,10605,10395,12180,3360,7875,10605,12705})
+			script.Parent.KeyBox.Text = "Incorrect Key"
 			wait(2)
-			script.Parent.KeyBox.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({})
+			script.Parent.KeyBox.Text = ""
 		end
 	end)
 end
-coroutine.wrap(GRMKSLK_fake_script)()
-local function NIUQQL_fake_script() -- PlayerIcon.LocalScript 
-	local script = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180}), PlayerIcon)
+coroutine.wrap(CZXF_fake_script)()
+local function LBZZM_fake_script() -- PlayerIcon.LocalScript 
+	local script = Instance.new('LocalScript', PlayerIcon)
 
-	local Players = game:GetService(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8400,11340,10185,12705,10605,11970,12075}))
+	local Players = game:GetService("Players")
 	
 	local player = Players.LocalPlayer
 	
@@ -617,25 +617,25 @@ local function NIUQQL_fake_script() -- PlayerIcon.LocalScript
 	local imageLabel = script.Parent
 	imageLabel.Image = content
 end
-coroutine.wrap(NIUQQL_fake_script)()
-local function SYUN_fake_script() -- Title_4.LocalScript 
-	local script = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180}), Title_4)
+coroutine.wrap(LBZZM_fake_script)()
+local function MNNMMG_fake_script() -- Title_4.LocalScript 
+	local script = Instance.new('LocalScript', Title_4)
 
-	script.Parent.Text = qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7560,10605,11340,11340,11655,4620,3360}) .. game.Players.LocalPlayer.Name
+	script.Parent.Text = "Hello, " .. game.Players.LocalPlayer.Name
 end
-coroutine.wrap(SYUN_fake_script)()
-local function PVNNVH_fake_script() -- CloseKey.LocalScript 
-	local script = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180}), CloseKey)
+coroutine.wrap(MNNMMG_fake_script)()
+local function WDIZK_fake_script() -- CloseKey.LocalScript 
+	local script = Instance.new('LocalScript', CloseKey)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent:Destroy()
 	end)
 end
-coroutine.wrap(PVNNVH_fake_script)()
-local function PXXSLIU_fake_script() -- Main.Drag 
-	local script = Instance.new(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({7980,11655,10395,10185,11340,8715,10395,11970,11025,11760,12180}), Main)
+coroutine.wrap(WDIZK_fake_script)()
+local function ARQU_fake_script() -- Main.Drag 
+	local script = Instance.new('LocalScript', Main)
 
-	local UserInputService = game:GetService(qNhIkZsslBMSJQtJjfjHdieIelxTRLohxASQahAbUuUCfMXusQhEU({8925,12075,10605,11970,7665,11550,11760,12285,12180,8715,10605,11970,12390,11025,10395,10605}))
+	local UserInputService = game:GetService("UserInputService")
 	
 	local gui = script.Parent
 	local secondGui = script.Parent.DragFrame
@@ -676,4 +676,4 @@ local function PXXSLIU_fake_script() -- Main.Drag
 		end
 	end)
 end
-coroutine.wrap(PXXSLIU_fake_script)()
+coroutine.wrap(ARQU_fake_script)()
